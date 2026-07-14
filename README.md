@@ -1,8 +1,8 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║  Frontend Developer | React • TypeScript • Design       ║
-║  Kathmandu, Nepal 🇳🇵                                  ║
+║  Frontend Developer | React • TypeScript • Design        ║
+║  Kathmandu, Nepal 🇳🇵                                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
